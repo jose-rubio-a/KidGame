@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/GameSelect.unity
+    guid: 219006721f1781a46a85264e0b1255eb
+  - enabled: 1
+    path: Assets/Scenes/DrawSelect.unity
+    guid: b4f3a911fb9e03247b15f17365d0e55a
+  - enabled: 1
+    path: Assets/Scenes/Draw_1.unity
+    guid: 327f69ae67e443c45817b63f4e5e9db4
+  - enabled: 1
+    path: Assets/Scenes/Draw_2.unity
+    guid: 55abbb34255d76a49832f5b1c8aa6f3f
+  m_configObjects: {}
